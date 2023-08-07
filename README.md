@@ -1,7 +1,7 @@
 # Python Simple File Server
 
 This is a simple Python script that can be used to serve a single file over HTTP. It's a quick and easy way to make a file available for download to other machines.
-
+It will later be used to serve files over 0kn mixnet for example :P 
 ## Usage
 If no arguments are supplied, then following will ask user for input for filename path, port and verbose mode. 
 
